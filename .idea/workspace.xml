@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ebd15ea-42f2-4c69-a8a7-e683b63a2f1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/проект01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icon msg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icon-msg1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-LightItalic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Medium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-MediumItalic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Thin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-ThinItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-ThinItalic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMono-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git комнады.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Icon_arrow-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Icon_arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="159" column="13" selection-start-line="159" selection-start-column="13" selection-end-line="159" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>f3&quot;</find>
+      <find>f4'</find>
+      <find>f7'</find>
+      <find>f6&quot;</find>
+      <find>h1</find>
+      <find>Roboto</find>
+      <find>i {</find>
+      <find>center-b</find>
+      <find>head</find>
+      <find>div-b</find>
+      <find>f57</find>
+      <find>f63</find>
+      <find>f22</find>
+      <find>padding-l</find>
+      <find>main</find>
+      <find>head-ul</find>
+      <find>circle</find>
+      <find>input[type=search] {</find>
+      <find>search</find>
+      <find>.right-head a</find>
+      <find>.center-box</find>
+      <find>.center-box .mini-box img</find>
+      <find>plus</find>
+      <find>.mini-box</find>
+      <find>.mini-box {</find>
+      <find>.procen</find>
+      <find>.mini-box .forms</find>
+      <find>under</find>
+      <find>sele</find>
+      <find>dropd</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="95b7f54b-e49b-411c-ba8d-b90168dae590" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="C:/OSPanel/domains/temp/templates/print/temp321.php" />
+        <option value="C:/OSPanel/domains/temp/templates/view/temp321.php" />
+        <option value="C:/OSPanel/domains/temp/templates/print/temp320.php" />
+        <option value="C:/OSPanel/domains/temp/templates/view/temp320.php" />
+        <option value="C:/OSPanel/domains/temp/templates/print/temp319.php" />
+        <option value="C:/OSPanel/domains/temp/templates/view/temp319.php" />
+        <option value="C:/OSPanel/domains/temp/templates/print/temp318.php" />
+        <option value="C:/OSPanel/domains/temp/templates/view/temp318.php" />
+        <option value="C:/OSPanel/domains/temp/templates/print/temp317.php" />
+        <option value="C:/OSPanel/domains/temp/templates/view/temp317.php" />
+        <option value="C:/OSPanel/domains/temp/templates/view/temp315.php" />
+        <option value="C:/OSPanel/domains/temp/templates/print/temp315.php" />
+        <option value="C:/OSPanel/domains/temp/templates/print/temp314.php" />
+        <option value="C:/OSPanel/domains/temp/templates/view/temp314.php" />
+        <option value="C:/OSPanel/domains/temp/templates/print/temp316.php" />
+        <option value="C:/OSPanel/domains/temp/templates/view/temp316.php" />
+        <option value="C:/OSPanel/domains/temp/templates/print/temp306.php" />
+        <option value="$PROJECT_DIR$/html.html" />
+        <option value="$PROJECT_DIR$/css.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1925" />
+    <option name="y" value="-19" />
+    <option name="width" value="1918" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ebd15ea-42f2-4c69-a8a7-e683b63a2f1f" name="Default Changelist" comment="" />
+      <created>1576551757690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576551757690</updated>
+      <workItem from="1576551761737" duration="8908000" />
+      <workItem from="1576569698611" duration="152000" />
+      <workItem from="1576569878256" duration="1919000" />
+      <workItem from="1576577128757" duration="3812000" />
+      <workItem from="1576585499549" duration="886000" />
+      <workItem from="1576607025418" duration="1087000" />
+      <workItem from="1576638684685" duration="2868000" />
+      <workItem from="1576641983174" duration="21075000" />
+      <workItem from="1576665981956" duration="423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41130000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25692964" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.17427386" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp321.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp321.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp03.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp03.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp320.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp320.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp318.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp318.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp317.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp317.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp315.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp315.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp314.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_icomoon.zip/demo.html" />
+    <entry file="file://$PROJECT_DIR$/fontello.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp314.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp319.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp319.php" />
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp316.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="914" column="13" lean-forward="true" selection-start-line="914" selection-start-column="13" selection-end-line="914" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/OSPanel/domains/temp/templates/view/temp316.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="891" column="13" lean-forward="true" selection-start-line="891" selection-start-column="13" selection-end-line="891" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/OSPanel/domains/temp/templates/print/temp306.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="369" column="11" lean-forward="true" selection-start-line="369" selection-start-column="11" selection-end-line="369" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="870" column="20" selection-start-line="870" selection-start-column="20" selection-end-line="870" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="159" column="13" selection-start-line="159" selection-start-column="13" selection-end-line="159" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
